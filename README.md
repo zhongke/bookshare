@@ -1,2 +1,2 @@
-# bookshare-backend
+# bookshare
 BackEnd for BookShare
